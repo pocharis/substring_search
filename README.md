@@ -1,4 +1,4 @@
-# Coding Test Solution
+# Substring search Solution
 This is a program that takes a single command-line argument that species a file path which points to a file specifying some source text and a search term. Its job is to search the source text for matches of the search term, and output all the matches after striping unwanted spaces, characters or numbers.
 
 ## The following assumptions and considerations were made:
